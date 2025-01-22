@@ -1,0 +1,96 @@
+[
+  {
+    "datetime_shown": "2025-01-21 10:34:31.642",
+    "date": "1963-11-19",
+    "anchor_response_time": 48.1,
+    "date_response_time": 111.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-21 10:46:03.993",
+    "date": "2043-08-17",
+    "mode": "anchor",
+    "anchor_response_time": 24.5,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:55:48.78",
+    "date": "2017-06-30",
+    "mode": "anchor",
+    "anchor_response_time": 30.4,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:56:30.104",
+    "date": "1800-10-07",
+    "mode": "anchor",
+    "anchor_response_time": 13.2,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:56:46.702",
+    "date": "2035-07-11",
+    "mode": "anchor",
+    "anchor_response_time": 23.6,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:57:13.001",
+    "date": "1950-12-18",
+    "mode": "anchor",
+    "anchor_response_time": 16.9,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:57:31.503",
+    "date": "1947-05-03",
+    "mode": "anchor",
+    "anchor_response_time": 23.5,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:58:32.007",
+    "date": "2051-10-09",
+    "mode": "anchor",
+    "anchor_response_time": 9.7,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:58:42.902",
+    "date": "1967-08-12",
+    "mode": "anchor",
+    "anchor_response_time": 17,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:59:02.408",
+    "date": "2086-07-17",
+    "mode": "anchor",
+    "anchor_response_time": 18.3,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 16:59:29.204",
+    "date": "1820-11-30",
+    "mode": "anchor",
+    "anchor_response_time": 27.4,
+    "anchor_correct": false,
+    "explanation": "bad-century-anchor"
+  },
+  {
+    "datetime_shown": "2025-01-22 17:00:41.01",
+    "date": "2054-08-25",
+    "mode": "anchor",
+    "anchor_response_time": 15.5,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-22 17:00:57.806",
+    "date": "1868-09-06",
+    "mode": "anchor",
+    "anchor_response_time": 13.3,
+    "anchor_correct": true
+  },
+]
+
