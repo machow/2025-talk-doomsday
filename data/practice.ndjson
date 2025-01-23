@@ -252,6 +252,15 @@
     "mode": "anchor",
     "anchor_response_time": 19.2,
     "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-23 11:53:16.728",
+    "date": "2095-05-22",
+    "mode": "date",
+    "anchor_response_time": 26.4,
+    "date_response_time": 76.8,
+    "anchor_correct": false,
+    "date_correct": true
   }
 ]
 
