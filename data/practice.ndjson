@@ -261,6 +261,86 @@
     "date_response_time": 76.8,
     "anchor_correct": false,
     "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:03:55.616",
+    "date": "2040-04-23",
+    "mode": "anchor",
+    "anchor_response_time": 8.5,
+    "anchor_correct": false,
+    "explanation": "century-anchor",
+  },
+  {
+    "datetime_shown": "2025-01-25 11:04:24.766",
+    "date": "1964-04-29",
+    "mode": "anchor",
+    "anchor_response_time": 11.8,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:04:38.671",
+    "date": "1987-09-06",
+    "mode": "anchor",
+    "anchor_response_time": 12.8,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:04:53.462",
+    "date": "1923-09-13",
+    "mode": "anchor",
+    "anchor_response_time": 20.7,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:22:41.765",
+    "date": "2022-11-17",
+    "mode": "anchor",
+    "anchor_response_time": 8.8,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:22:53.066",
+    "date": "2089-05-06",
+    "mode": "anchor",
+    "anchor_response_time": 10,
+    "anchor_correct": false,
+    "explanation": "year-anchor: incorrect division by 12"
+  },
+  {
+    "datetime_shown": "2025-01-25 11:23:20.464",
+    "date": "1833-03-07",
+    "mode": "anchor",
+    "anchor_response_time": 69.7,
+    "anchor_correct": false,
+    "explanation": "century-anchor"
+  },
+  {
+    "datetime_shown": "2025-01-25 11:25:50.666",
+    "date": "2005-08-13",
+    "mode": "anchor",
+    "anchor_response_time": 7.7,
+    "anchor_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-25 11:26:27.566",
+    "date": "1990-08-21",
+    "mode": "anchor",
+    "anchor_response_time": 16.2,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:26:27.566",
+    "date": "1990-08-21",
+    "mode": "anchor",
+    "anchor_response_time": 17.8,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:26:55.463",
+    "date": "1965-12-24",
+    "mode": "anchor",
+    "anchor_response_time": 16.6,
+    "anchor_correct": true
   }
 ]
 
