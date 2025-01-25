@@ -679,6 +679,170 @@
     "mode": "date-partial",
     "date_response_time": 45.3,
     "date_correct": false
+  },
+
+
+
+  {
+    "datetime_shown": "2025-01-25 11:56:22.968",
+    "date": "1847-08-27",
+    "mode": "date-partial",
+    "date_response_time": 23.2,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:56:49.972",
+    "date": "2098-09-01",
+    "mode": "date-partial",
+    "date_response_time": 17.9,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:57:10.775",
+    "date": "1865-11-13",
+    "mode": "date-partial",
+    "date_response_time": 9.3,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:57:23.577",
+    "date": "2095-10-13",
+    "mode": "date-partial",
+    "date_response_time": 6.1,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:57:35.575",
+    "date": "1921-09-15",
+    "mode": "date-partial",
+    "date_response_time": 8.6,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:57:45.675",
+    "date": "2001-03-26",
+    "mode": "date-partial",
+    "date_response_time": 37.4,
+    "date_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-25 12:01:13.177",
+    "date": "1949-10-16",
+    "mode": "date-partial",
+    "date_response_time": 8.3,
+    "date_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-25 12:01:33.681",
+    "date": "1968-07-30",
+    "mode": "date-partial",
+    "date_response_time": 46.2,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:02:41.075",
+    "date": "2048-03-28",
+    "mode": "date-partial",
+    "date_response_time": 20,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:03:02.972",
+    "date": "1888-12-05",
+    "mode": "date-partial",
+    "date_response_time": 20.2,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:03:24.673",
+    "date": "2090-09-12",
+    "mode": "date-partial",
+    "date_response_time": 8.3,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:03:34.277",
+    "date": "1983-08-11",
+    "mode": "date-partial",
+    "date_response_time": 11.1,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:03:46.371",
+    "date": "1845-07-21",
+    "mode": "date-partial",
+    "date_response_time": 20.6,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:04:18.275",
+    "date": "2074-12-16",
+    "mode": "date-partial",
+    "date_response_time": 7.8,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:04:27.175",
+    "date": "1807-02-13",
+    "mode": "date-partial",
+    "date_response_time": 12.3,
+    "date_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-25 12:04:51.578",
+    "date": "2081-05-24",
+    "mode": "date-partial",
+    "date_response_time": 9.9,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:05:05.276",
+    "date": "2064-07-28",
+    "mode": "date-partial",
+    "date_response_time": 14.2,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:05:21.975",
+    "date": "1983-10-10",
+    "mode": "date-partial",
+    "date_response_time": 4.7,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:05:28.074",
+    "date": "1975-08-07",
+    "mode": "date-partial",
+    "date_response_time": 8.4,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:05:37.774",
+    "date": "1922-08-07",
+    "mode": "date-partial",
+    "date_response_time": 5.6,
+    "date_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-25 12:05:46.472",
+    "date": "1822-08-28",
+    "mode": "date-partial",
+    "date_response_time": 24.7,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:06:13.573",
+    "date": "1896-10-18",
+    "mode": "date-partial",
+    "date_response_time": 7.5,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 12:06:23.18",
+    "date": "1868-07-28",
+    "mode": "date-partial",
+    "date_response_time": 19.5,
+    "date_correct": true
   }
 ]
 
