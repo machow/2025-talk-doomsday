@@ -656,6 +656,29 @@
     "mode": "anchor",
     "anchor_response_time": 10,
     "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:51:19.395",
+    "date": "1860-08-29",
+    "mode": "anchor",
+    "anchor_response_time": 4.7,
+    "anchor_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:51:28.971",
+    "date": "2032-11-14",
+    "mode": "date",
+    "anchor_response_time": 14.3,
+    "date_response_time": 18.9,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-25 11:52:19.874",
+    "date": "2009-04-25",
+    "mode": "date-partial",
+    "date_response_time": 45.3,
+    "date_correct": false
   }
 ]
 
