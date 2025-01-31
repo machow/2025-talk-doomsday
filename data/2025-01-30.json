@@ -1,0 +1,335 @@
+[
+  {
+    "datetime_shown": "2025-01-30 23:05:20.127",
+    "date": "2070-06-25",
+    "mode": "date",
+    "anchor_response_time": 10,
+    "date_response_time": 20.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:08:13.171",
+    "date": "1942-05-20",
+    "mode": "date",
+    "anchor_response_time": 10.2,
+    "date_response_time": 10.1,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:08:34.766",
+    "date": "1817-04-22",
+    "mode": "date",
+    "anchor_response_time": 8.9,
+    "date_response_time": 10.9,
+    "anchor_correct": false,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:08:57.363",
+    "date": "1834-12-31",
+    "mode": "date",
+    "anchor_response_time": 8.1,
+    "date_response_time": 9.7,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:09:16.565",
+    "date": "1924-11-09",
+    "mode": "date",
+    "anchor_response_time": 3.9,
+    "date_response_time": 7,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:09:28.561",
+    "date": "1811-11-06",
+    "mode": "date",
+    "anchor_response_time": 11.3,
+    "date_response_time": 5,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:09:46.264",
+    "date": "1885-09-03",
+    "mode": "date",
+    "anchor_response_time": 6.9,
+    "date_response_time": 8.1,
+    "anchor_correct": false,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:10:10.367",
+    "date": "1988-11-04",
+    "mode": "date",
+    "anchor_response_time": 14.4,
+    "date_response_time": 8.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:10:34.263",
+    "date": "2011-06-07",
+    "mode": "date",
+    "anchor_response_time": 9.8,
+    "date_response_time": 2.8,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:10:47.966",
+    "date": "1942-05-15",
+    "mode": "date",
+    "anchor_response_time": 7.5,
+    "date_response_time": 23.5,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:11:20.562",
+    "date": "1966-05-13",
+    "mode": "date",
+    "anchor_response_time": 6.3,
+    "date_response_time": 7.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:11:35.666",
+    "date": "2070-09-21",
+    "mode": "date",
+    "anchor_response_time": 13.9,
+    "date_response_time": 9,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:11:59.565",
+    "date": "1975-03-18",
+    "mode": "date",
+    "anchor_response_time": 10.9,
+    "date_response_time": 15.3,
+    "anchor_correct": false,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:12:27.164",
+    "date": "1984-08-19",
+    "mode": "date",
+    "anchor_response_time": 6.3,
+    "date_response_time": 9.7,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:12:44.362",
+    "date": "1999-06-18",
+    "mode": "date",
+    "anchor_response_time": 15,
+    "date_response_time": 8.4,
+    "anchor_correct": true,
+    "date_correct": false
+  },
+  {
+    "datetime_shown": "2025-01-30 23:13:13.062",
+    "date": "1969-08-13",
+    "mode": "date",
+    "anchor_response_time": 11.7,
+    "date_response_time": 4.5,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:13:31.367",
+    "date": "1839-07-25",
+    "mode": "date",
+    "anchor_response_time": 9.1,
+    "date_response_time": 5.2,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:13:46.663",
+    "date": "1940-03-19",
+    "mode": "date",
+    "anchor_response_time": 6.5,
+    "date_response_time": 10.5,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:14:04.563",
+    "date": "1847-01-24",
+    "mode": "date",
+    "anchor_response_time": 5.6,
+    "date_response_time": 10.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:14:21.469",
+    "date": "2025-07-16",
+    "mode": "date",
+    "anchor_response_time": 8.9,
+    "date_response_time": 12.1,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:14:43.661",
+    "date": "1859-12-22",
+    "mode": "date",
+    "anchor_response_time": 7.6,
+    "date_response_time": 12.1,
+    "anchor_correct": false,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:15:04.362",
+    "date": "1945-12-08",
+    "mode": "date",
+    "anchor_response_time": 10.4,
+    "date_response_time": 6.5,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:15:23.058",
+    "date": "1879-11-08",
+    "mode": "date",
+    "anchor_response_time": 12.3,
+    "date_response_time": 4,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:15:40.259",
+    "date": "2014-02-01",
+    "mode": "date",
+    "anchor_response_time": 9.7,
+    "date_response_time": 21.4,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:16:12.664",
+    "date": "1888-07-12",
+    "mode": "date",
+    "anchor_response_time": 13,
+    "date_response_time": 5.2,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:16:31.666",
+    "date": "1843-01-24",
+    "mode": "date",
+    "anchor_response_time": 12.9,
+    "date_response_time": 9.9,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:16:55.457",
+    "date": "2013-02-03",
+    "mode": "date",
+    "anchor_response_time": 5.3,
+    "date_response_time": 15.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:17:16.959",
+    "date": "1975-01-15",
+    "mode": "date",
+    "anchor_response_time": 9.9,
+    "date_response_time": 14.1,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:17:41.956",
+    "date": "1857-09-28",
+    "mode": "date",
+    "anchor_response_time": 12.3,
+    "date_response_time": 14.1,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:18:09.459",
+    "date": "1883-11-02",
+    "mode": "date",
+    "anchor_response_time": 9.9,
+    "date_response_time": 11.3,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:18:33.063",
+    "date": "1971-02-13",
+    "mode": "date",
+    "anchor_response_time": 9.3,
+    "date_response_time": 17.1,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:19:06.262",
+    "date": "1910-12-16",
+    "mode": "date",
+    "anchor_response_time": 12.2,
+    "date_response_time": 3.8,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:19:23.356",
+    "date": "1845-06-12",
+    "mode": "date",
+    "anchor_response_time": 8,
+    "date_response_time": 5.9,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:19:38.16",
+    "date": "2054-01-29",
+    "mode": "date",
+    "anchor_response_time": 7.8,
+    "date_response_time": 17.7,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:20:05.159",
+    "date": "1836-09-12",
+    "mode": "date",
+    "anchor_response_time": 4.6,
+    "date_response_time": 7.2,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:20:17.862",
+    "date": "1851-01-25",
+    "mode": "date",
+    "anchor_response_time": 6.2,
+    "date_response_time": 7.8,
+    "anchor_correct": true,
+    "date_correct": true
+  },
+  {
+    "datetime_shown": "2025-01-30 23:20:34.061",
+    "date": "2052-05-27",
+    "mode": "date",
+    "anchor_response_time": 9.9,
+    "date_response_time": 10.2,
+    "anchor_correct": true,
+    "date_correct": true
+  }
+]
