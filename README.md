@@ -2,9 +2,9 @@
 
 
 This repository is for a 5 minute show and tell on Conway’s Doomsday
-Algorithm as posit workweek 2025.
+Algorithm at posit workweek 2025.
 
-## Learning the Doomsday ALgorithm
+## Learning the Doomsday Algorithm
 
 - https://rudy.ca/doomsday.html
 
